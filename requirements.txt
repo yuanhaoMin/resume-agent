@@ -1,0 +1,11 @@
+docx2txt==0.8
+easyocr==1.7.0
+numpy==1.24.1
+openai==0.27.8
+pdfminer==20191125
+pdfminer.six==20221105
+pywin32==306
+Pillow==9.3.0
+streamlit==1.25.0
+tiktoken==0.4.0
+torch==2.0.1+cu117
